@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: darkgreen;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    border: 1px dashed white;
+    padding: 10px 0;
+}
+
+input[type=text]{
+    width: 100%;
+    padding-left: 10px;
+    color: black;
+    height: 40px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+ button{
+    width: 100%;
+    background-color: aliceblue;
+    height: 40px;
+    cursor: pointer;
+    margin-bottom: 10px;
+
+}
+
+button:hover{
+    background-color: rgb(193, 225, 253);
+}
+
+nav{
+    background-color: aliceblue;
+}
+
+.conta{
+    background-color:rgb(45, 216, 82);
+}
+
+p{
+    text-align: center;
+    font-weight: bold;
+}
+
+a{
+    padding-left: 20px;
+}
